@@ -1,0 +1,842 @@
+-----
+MUTAG - GCN - None
+Val Loss: 0.5436, Test Accuracy: 0.712 ± 0.079, Duration: 1.938
+Val Loss: 0.5234, Test Accuracy: 0.723 ± 0.103, Duration: 1.913
+Val Loss: 0.5126, Test Accuracy: 0.708 ± 0.108, Duration: 1.969
+Val Loss: 0.5058, Test Accuracy: 0.708 ± 0.119, Duration: 1.976
+Val Loss: 0.5210, Test Accuracy: 0.707 ± 0.084, Duration: 2.298
+Val Loss: 0.5124, Test Accuracy: 0.723 ± 0.120, Duration: 2.297
+Val Loss: 0.4940, Test Accuracy: 0.723 ± 0.112, Duration: 2.325
+Val Loss: 0.4865, Test Accuracy: 0.713 ± 0.088, Duration: 2.400
+Val Loss: 0.5089, Test Accuracy: 0.729 ± 0.118, Duration: 2.661
+Val Loss: 0.4934, Test Accuracy: 0.750 ± 0.089, Duration: 2.677
+Val Loss: 0.4921, Test Accuracy: 0.729 ± 0.108, Duration: 2.720
+Val Loss: 0.4820, Test Accuracy: 0.723 ± 0.112, Duration: 2.841
+Val Loss: 0.5090, Test Accuracy: 0.761 ± 0.084, Duration: 3.046
+Val Loss: 0.5028, Test Accuracy: 0.723 ± 0.120, Duration: 3.068
+Val Loss: 0.4843, Test Accuracy: 0.745 ± 0.070, Duration: 3.134
+Val Loss: 0.4799, Test Accuracy: 0.729 ± 0.072, Duration: 3.274
+Val Loss: 0.5058, Test Accuracy: 0.728 ± 0.128, Duration: 3.448
+Val Loss: 0.4882, Test Accuracy: 0.739 ± 0.079, Duration: 3.449
+Val Loss: 0.4932, Test Accuracy: 0.739 ± 0.099, Duration: 3.515
+Val Loss: 0.4906, Test Accuracy: 0.739 ± 0.105, Duration: 3.702
+Best result - 0.729 ± 0.072 - None
+-----
+MUTAG - GCN - D
+Val Loss: 0.5399, Test Accuracy: 0.692 ± 0.096, Duration: 3.145
+Val Loss: 0.5202, Test Accuracy: 0.708 ± 0.097, Duration: 3.214
+Val Loss: 0.4962, Test Accuracy: 0.724 ± 0.102, Duration: 3.385
+Val Loss: 0.4740, Test Accuracy: 0.729 ± 0.091, Duration: 3.721
+Val Loss: 0.4988, Test Accuracy: 0.724 ± 0.064, Duration: 4.730
+Val Loss: 0.4879, Test Accuracy: 0.750 ± 0.094, Duration: 4.956
+Val Loss: 0.4796, Test Accuracy: 0.713 ± 0.076, Duration: 5.175
+Val Loss: 0.4607, Test Accuracy: 0.729 ± 0.084, Duration: 5.745
+Val Loss: 0.4864, Test Accuracy: 0.734 ± 0.069, Duration: 6.332
+Val Loss: 0.4705, Test Accuracy: 0.755 ± 0.088, Duration: 6.495
+Val Loss: 0.4694, Test Accuracy: 0.755 ± 0.076, Duration: 6.932
+Val Loss: 0.4567, Test Accuracy: 0.740 ± 0.097, Duration: 7.771
+Val Loss: 0.4857, Test Accuracy: 0.713 ± 0.104, Duration: 7.803
+Val Loss: 0.4660, Test Accuracy: 0.740 ± 0.071, Duration: 8.113
+Val Loss: 0.4639, Test Accuracy: 0.750 ± 0.087, Duration: 8.730
+Val Loss: 0.4633, Test Accuracy: 0.718 ± 0.095, Duration: 9.852
+Val Loss: 0.4715, Test Accuracy: 0.724 ± 0.063, Duration: 9.387
+Val Loss: 0.4570, Test Accuracy: 0.755 ± 0.079, Duration: 9.743
+Val Loss: 0.4609, Test Accuracy: 0.745 ± 0.095, Duration: 10.509
+Val Loss: 0.5087, Test Accuracy: 0.724 ± 0.088, Duration: 11.882
+Best result - 0.740 ± 0.097 - D
+-----
+MUTAG - GCN - C 
+Val Loss: 0.5330, Test Accuracy: 0.734 ± 0.092, Duration: 2.931 
+Val Loss: 0.5075, Test Accuracy: 0.718 ± 0.086, Duration: 2.944
+Val Loss: 0.5012, Test Accuracy: 0.729 ± 0.080, Duration: 2.986 
+Val Loss: 0.4766, Test Accuracy: 0.724 ± 0.089, Duration: 3.114 
+Val Loss: 0.5097, Test Accuracy: 0.739 ± 0.105, Duration: 4.287 
+Val Loss: 0.4893, Test Accuracy: 0.740 ± 0.104, Duration: 4.310 
+Val Loss: 0.4871, Test Accuracy: 0.713 ± 0.102, Duration: 4.408 
+Val Loss: 0.4699, Test Accuracy: 0.739 ± 0.073, Duration: 4.672 
+Val Loss: 0.4932, Test Accuracy: 0.729 ± 0.104, Duration: 5.653 
+Val Loss: 0.4690, Test Accuracy: 0.729 ± 0.074, Duration: 5.684 
+Val Loss: 0.4636, Test Accuracy: 0.724 ± 0.110, Duration: 5.836 
+Val Loss: 0.4512, Test Accuracy: 0.728 ± 0.094, Duration: 6.229
+Val Loss: 0.4860, Test Accuracy: 0.750 ± 0.087, Duration: 7.034
+Val Loss: 0.4663, Test Accuracy: 0.750 ± 0.087, Duration: 7.054
+Val Loss: 0.4566, Test Accuracy: 0.734 ± 0.049, Duration: 7.271
+Val Loss: 0.4571, Test Accuracy: 0.734 ± 0.091, Duration: 7.793
+Val Loss: 0.4728, Test Accuracy: 0.755 ± 0.094, Duration: 8.398
+Val Loss: 0.4722, Test Accuracy: 0.756 ± 0.079, Duration: 8.431
+Val Loss: 0.4525, Test Accuracy: 0.746 ± 0.090, Duration: 8.699
+Val Loss: 0.4416, Test Accuracy: 0.713 ± 0.086, Duration: 9.347
+Best result - 0.713 ± 0.086 - C
+-----
+MUTAG - GCN - B
+Val Loss: 0.5125, Test Accuracy: 0.708 ± 0.091, Duration: 2.476
+Val Loss: 0.4978, Test Accuracy: 0.708 ± 0.102, Duration: 2.488
+Val Loss: 0.4903, Test Accuracy: 0.697 ± 0.069, Duration: 2.512
+Val Loss: 0.4708, Test Accuracy: 0.723 ± 0.070, Duration: 2.559
+Val Loss: 0.4955, Test Accuracy: 0.718 ± 0.078, Duration: 3.400
+Val Loss: 0.4812, Test Accuracy: 0.745 ± 0.105, Duration: 3.439
+Val Loss: 0.4781, Test Accuracy: 0.740 ± 0.095, Duration: 3.476
+Val Loss: 0.4724, Test Accuracy: 0.734 ± 0.099, Duration: 3.578
+Val Loss: 0.4842, Test Accuracy: 0.761 ± 0.077, Duration: 4.336
+Val Loss: 0.4738, Test Accuracy: 0.745 ± 0.093, Duration: 4.370
+Val Loss: 0.4782, Test Accuracy: 0.761 ± 0.073, Duration: 4.427
+Val Loss: 0.4690, Test Accuracy: 0.729 ± 0.080, Duration: 4.593
+Val Loss: 0.4784, Test Accuracy: 0.766 ± 0.088, Duration: 5.250
+Val Loss: 0.4827, Test Accuracy: 0.761 ± 0.091, Duration: 5.306
+Val Loss: 0.4556, Test Accuracy: 0.766 ± 0.068, Duration: 5.368
+Val Loss: 0.4688, Test Accuracy: 0.745 ± 0.089, Duration: 5.599
+Val Loss: 0.4794, Test Accuracy: 0.718 ± 0.105, Duration: 6.174
+Val Loss: 0.4671, Test Accuracy: 0.750 ± 0.083, Duration: 6.239
+Val Loss: 0.4611, Test Accuracy: 0.734 ± 0.090, Duration: 6.321
+Val Loss: 0.4580, Test Accuracy: 0.734 ± 0.106, Duration: 6.610
+Best result - 0.766 ± 0.068 - B
+-----
+MUTAG - GCN - A
+Val Loss: 0.5119, Test Accuracy: 0.750 ± 0.103, Duration: 2.470
+Val Loss: 0.5048, Test Accuracy: 0.719 ± 0.098, Duration: 2.480
+Val Loss: 0.4881, Test Accuracy: 0.729 ± 0.112, Duration: 2.499
+Val Loss: 0.4758, Test Accuracy: 0.718 ± 0.108, Duration: 2.555
+Val Loss: 0.4991, Test Accuracy: 0.740 ± 0.101, Duration: 3.384
+Val Loss: 0.4861, Test Accuracy: 0.766 ± 0.084, Duration: 3.409
+Val Loss: 0.4885, Test Accuracy: 0.750 ± 0.097, Duration: 3.442
+Val Loss: 0.4799, Test Accuracy: 0.745 ± 0.082, Duration: 3.572
+Val Loss: 0.4822, Test Accuracy: 0.761 ± 0.077, Duration: 4.286
+Val Loss: 0.4709, Test Accuracy: 0.745 ± 0.089, Duration: 4.329
+Val Loss: 0.4770, Test Accuracy: 0.766 ± 0.096, Duration: 4.380
+Val Loss: 0.4743, Test Accuracy: 0.740 ± 0.095, Duration: 4.567
+Val Loss: 0.4984, Test Accuracy: 0.734 ± 0.066, Duration: 5.195
+Val Loss: 0.4791, Test Accuracy: 0.756 ± 0.061, Duration: 5.241
+Val Loss: 0.4548, Test Accuracy: 0.729 ± 0.073, Duration: 5.306
+Val Loss: 0.6303, Test Accuracy: 0.665 ± 0.024, Duration: 5.565
+Val Loss: 0.4812, Test Accuracy: 0.755 ± 0.086, Duration: 6.103
+Val Loss: 0.4577, Test Accuracy: 0.771 ± 0.073, Duration: 6.159
+Val Loss: 0.4124, Test Accuracy: 0.756 ± 0.069, Duration: 6.241
+Val Loss: 0.6030, Test Accuracy: 0.675 ± 0.030, Duration: 6.564
+Best result - 0.756 ± 0.069 - A
+-----
+MUTAG - GraphSAGE - None
+Val Loss: 0.5446, Test Accuracy: 0.729 ± 0.123, Duration: 1.683
+Val Loss: 0.5114, Test Accuracy: 0.718 ± 0.100, Duration: 1.686
+Val Loss: 0.5026, Test Accuracy: 0.734 ± 0.098, Duration: 1.688
+Val Loss: 0.4928, Test Accuracy: 0.729 ± 0.072, Duration: 1.701
+Val Loss: 0.5424, Test Accuracy: 0.702 ± 0.109, Duration: 1.831
+Val Loss: 0.5023, Test Accuracy: 0.734 ± 0.095, Duration: 1.843
+Val Loss: 0.4807, Test Accuracy: 0.750 ± 0.083, Duration: 1.853
+Val Loss: 0.4752, Test Accuracy: 0.756 ± 0.079, Duration: 1.900
+Val Loss: 0.4994, Test Accuracy: 0.739 ± 0.101, Duration: 1.988
+Val Loss: 0.5049, Test Accuracy: 0.734 ± 0.107, Duration: 2.004
+Val Loss: 0.4928, Test Accuracy: 0.718 ± 0.087, Duration: 2.018
+Val Loss: 0.4574, Test Accuracy: 0.782 ± 0.094, Duration: 2.096
+Val Loss: 0.5202, Test Accuracy: 0.728 ± 0.091, Duration: 2.142
+Val Loss: 0.4914, Test Accuracy: 0.744 ± 0.101, Duration: 2.161
+Val Loss: 0.4689, Test Accuracy: 0.761 ± 0.091, Duration: 2.186
+Val Loss: 0.4453, Test Accuracy: 0.746 ± 0.106, Duration: 2.291
+Val Loss: 0.5225, Test Accuracy: 0.734 ± 0.072, Duration: 2.298
+Val Loss: 0.4915, Test Accuracy: 0.718 ± 0.100, Duration: 2.316
+Val Loss: 0.4946, Test Accuracy: 0.766 ± 0.095, Duration: 2.354
+Val Loss: 0.4717, Test Accuracy: 0.709 ± 0.081, Duration: 2.490
+Best result - 0.746 ± 0.106 - None
+-----
+MUTAG - GraphSAGE - D
+Val Loss: 0.5458, Test Accuracy: 0.676 ± 0.091, Duration: 2.891
+Val Loss: 0.5056, Test Accuracy: 0.740 ± 0.084, Duration: 2.964
+Val Loss: 0.4853, Test Accuracy: 0.735 ± 0.108, Duration: 3.116
+Val Loss: 0.4657, Test Accuracy: 0.745 ± 0.086, Duration: 3.439
+Val Loss: 0.5078, Test Accuracy: 0.756 ± 0.087, Duration: 4.250
+Val Loss: 0.4800, Test Accuracy: 0.729 ± 0.070, Duration: 4.384
+Val Loss: 0.4695, Test Accuracy: 0.703 ± 0.096, Duration: 4.679
+Val Loss: 0.4591, Test Accuracy: 0.729 ± 0.066, Duration: 5.174
+Val Loss: 0.4835, Test Accuracy: 0.771 ± 0.091, Duration: 5.594
+Val Loss: 0.4686, Test Accuracy: 0.739 ± 0.102, Duration: 5.767
+Val Loss: 0.4584, Test Accuracy: 0.723 ± 0.103, Duration: 6.206
+Val Loss: 0.4546, Test Accuracy: 0.713 ± 0.102, Duration: 6.991
+Val Loss: 0.4775, Test Accuracy: 0.734 ± 0.081, Duration: 6.873
+Val Loss: 0.4666, Test Accuracy: 0.734 ± 0.062, Duration: 7.149
+Val Loss: 0.4535, Test Accuracy: 0.713 ± 0.086, Duration: 7.758
+Val Loss: 0.4659, Test Accuracy: 0.713 ± 0.086, Duration: 8.820
+Val Loss: 0.4765, Test Accuracy: 0.750 ± 0.079, Duration: 8.227
+Val Loss: 0.4559, Test Accuracy: 0.734 ± 0.084, Duration: 8.568
+Val Loss: 0.4596, Test Accuracy: 0.760 ± 0.081, Duration: 9.332
+Val Loss: 0.4636, Test Accuracy: 0.756 ± 0.082, Duration: 10.647
+Best result - 0.713 ± 0.086 - D
+-----
+MUTAG - GraphSAGE - C
+ 
+Val Loss: 0.5381, Test Accuracy: 0.676 ± 0.111, Duration: 2.706 
+Val Loss: 0.5176, Test Accuracy: 0.734 ± 0.066, Duration: 2.714 
+Val Loss: 0.4826, Test Accuracy: 0.723 ± 0.078, Duration: 2.749 
+Val Loss: 0.4772, Test Accuracy: 0.739 ± 0.081, Duration: 2.859 
+Val Loss: 0.4997, Test Accuracy: 0.729 ± 0.112, Duration: 3.855 
+Val Loss: 0.4748, Test Accuracy: 0.734 ± 0.083, Duration: 3.875 
+Val Loss: 0.4685, Test Accuracy: 0.724 ± 0.092, Duration: 3.964 
+Val Loss: 0.4438, Test Accuracy: 0.735 ± 0.088, Duration: 4.202 
+Val Loss: 0.4844, Test Accuracy: 0.761 ± 0.096, Duration: 5.009
+Val Loss: 0.4540, Test Accuracy: 0.724 ± 0.087, Duration: 5.036 
+Val Loss: 0.4637, Test Accuracy: 0.750 ± 0.062, Duration: 5.165 
+Val Loss: 0.4257, Test Accuracy: 0.745 ± 0.073, Duration: 5.538
+Val Loss: 0.4767, Test Accuracy: 0.755 ± 0.088, Duration: 6.156 
+Val Loss: 0.4581, Test Accuracy: 0.744 ± 0.075, Duration: 6.178 
+Val Loss: 0.4302, Test Accuracy: 0.756 ± 0.069, Duration: 6.373 
+Val Loss: 0.4443, Test Accuracy: 0.739 ± 0.095, Duration: 6.870
+Val Loss: 0.4796, Test Accuracy: 0.744 ± 0.107, Duration: 7.315 
+Val Loss: 0.4586, Test Accuracy: 0.793 ± 0.103, Duration: 7.349 
+Val Loss: 0.4529, Test Accuracy: 0.751 ± 0.085, Duration: 7.573
+ 
+Val Loss: 0.4508, Test Accuracy: 0.772 ± 0.073, Duration: 8.212
+Best result - 0.745 ± 0.073 - C
+-----
+MUTAG - GraphSAGE - B
+Val Loss: 0.5190, Test Accuracy: 0.718 ± 0.082, Duration: 2.261
+Val Loss: 0.5050, Test Accuracy: 0.713 ± 0.102, Duration: 2.269
+Val Loss: 0.4982, Test Accuracy: 0.734 ± 0.090, Duration: 2.286
+Val Loss: 0.4671, Test Accuracy: 0.756 ± 0.074, Duration: 2.312
+Val Loss: 0.4942, Test Accuracy: 0.745 ± 0.099, Duration: 2.963
+Val Loss: 0.4826, Test Accuracy: 0.719 ± 0.105, Duration: 2.987
+Val Loss: 0.4711, Test Accuracy: 0.751 ± 0.074, Duration: 3.022
+Val Loss: 0.4631, Test Accuracy: 0.735 ± 0.081, Duration: 3.109
+Val Loss: 0.4850, Test Accuracy: 0.729 ± 0.096, Duration: 3.679
+Val Loss: 0.4751, Test Accuracy: 0.745 ± 0.109, Duration: 3.707
+Val Loss: 0.4625, Test Accuracy: 0.766 ± 0.037, Duration: 3.757
+Val Loss: 0.4480, Test Accuracy: 0.794 ± 0.079, Duration: 3.905
+Val Loss: 0.4762, Test Accuracy: 0.734 ± 0.098, Duration: 4.377
+Val Loss: 0.4603, Test Accuracy: 0.750 ± 0.079, Duration: 4.423
+Val Loss: 0.4442, Test Accuracy: 0.740 ± 0.051, Duration: 4.488
+Val Loss: 0.4491, Test Accuracy: 0.739 ± 0.086, Duration: 4.693
+Val Loss: 0.4729, Test Accuracy: 0.739 ± 0.082, Duration: 5.096
+Val Loss: 0.4466, Test Accuracy: 0.771 ± 0.068, Duration: 5.147
+Val Loss: 0.4547, Test Accuracy: 0.745 ± 0.089, Duration: 5.230
+Val Loss: 0.4791, Test Accuracy: 0.766 ± 0.081, Duration: 5.493
+Best result - 0.740 ± 0.051 - B
+-----
+MUTAG - GraphSAGE - A
+Val Loss: 0.5100, Test Accuracy: 0.745 ± 0.099, Duration: 2.243
+Val Loss: 0.4851, Test Accuracy: 0.745 ± 0.089, Duration: 2.254
+Val Loss: 0.4812, Test Accuracy: 0.750 ± 0.070, Duration: 2.268
+Val Loss: 0.4684, Test Accuracy: 0.739 ± 0.088, Duration: 2.297
+Val Loss: 0.4918, Test Accuracy: 0.756 ± 0.099, Duration: 2.941
+Val Loss: 0.4861, Test Accuracy: 0.735 ± 0.072, Duration: 2.967
+Val Loss: 0.4726, Test Accuracy: 0.756 ± 0.049, Duration: 2.996
+Val Loss: 0.4822, Test Accuracy: 0.724 ± 0.085, Duration: 3.091
+Val Loss: 0.4751, Test Accuracy: 0.735 ± 0.069, Duration: 3.715
+Val Loss: 0.4648, Test Accuracy: 0.740 ± 0.083, Duration: 3.677
+Val Loss: 0.4653, Test Accuracy: 0.745 ± 0.074, Duration: 3.708
+Val Loss: 0.4980, Test Accuracy: 0.729 ± 0.096, Duration: 3.870
+Val Loss: 0.4746, Test Accuracy: 0.756 ± 0.096, Duration: 4.332
+Val Loss: 0.4518, Test Accuracy: 0.734 ± 0.083, Duration: 4.387
+Val Loss: 0.4748, Test Accuracy: 0.755 ± 0.099, Duration: 4.431
+Val Loss: 0.5814, Test Accuracy: 0.682 ± 0.058, Duration: 4.664
+Val Loss: 0.4814, Test Accuracy: 0.744 ± 0.066, Duration: 5.036
+Val Loss: 0.4719, Test Accuracy: 0.724 ± 0.095, Duration: 5.094
+Val Loss: 0.5394, Test Accuracy: 0.717 ± 0.093, Duration: 5.154
+Val Loss: 0.6006, Test Accuracy: 0.718 ± 0.092, Duration: 5.498
+Best result - 0.734 ± 0.083 - A
+-----
+MUTAG - GIN0 - None
+Val Loss: 0.3168, Test Accuracy: 0.782 ± 0.094, Duration: 1.914
+Val Loss: 0.3013, Test Accuracy: 0.804 ± 0.121, Duration: 1.835
+Val Loss: 0.3136, Test Accuracy: 0.830 ± 0.096, Duration: 1.852
+Val Loss: 0.2895, Test Accuracy: 0.814 ± 0.101, Duration: 1.881
+Val Loss: 0.2548, Test Accuracy: 0.815 ± 0.096, Duration: 2.096
+Val Loss: 0.2314, Test Accuracy: 0.809 ± 0.065, Duration: 2.104
+Val Loss: 0.2627, Test Accuracy: 0.819 ± 0.098, Duration: 2.133
+Val Loss: 0.2737, Test Accuracy: 0.798 ± 0.066, Duration: 2.217
+Val Loss: 0.2839, Test Accuracy: 0.819 ± 0.066, Duration: 2.365
+Val Loss: 0.2441, Test Accuracy: 0.782 ± 0.122, Duration: 2.375
+Val Loss: 0.2358, Test Accuracy: 0.825 ± 0.065, Duration: 2.409
+Val Loss: 0.2815, Test Accuracy: 0.788 ± 0.088, Duration: 2.558
+Val Loss: 0.2379, Test Accuracy: 0.820 ± 0.075, Duration: 2.728
+Val Loss: 0.2628, Test Accuracy: 0.814 ± 0.062, Duration: 2.782
+Val Loss: 0.2888, Test Accuracy: 0.807 ± 0.119, Duration: 2.798
+Val Loss: 0.2769, Test Accuracy: 0.841 ± 0.092, Duration: 2.932
+Val Loss: 0.2186, Test Accuracy: 0.841 ± 0.065, Duration: 2.966
+Val Loss: 0.2551, Test Accuracy: 0.824 ± 0.098, Duration: 3.019
+Val Loss: 0.2399, Test Accuracy: 0.808 ± 0.064, Duration: 3.030
+Val Loss: 0.2322, Test Accuracy: 0.829 ± 0.097, Duration: 3.226
+Best result - 0.841 ± 0.065 - None
+-----
+MUTAG - GIN0 - D
+Val Loss: 0.3168, Test Accuracy: 0.825 ± 0.078, Duration: 3.133
+Val Loss: 0.2753, Test Accuracy: 0.863 ± 0.090, Duration: 3.218
+Val Loss: 0.2820, Test Accuracy: 0.867 ± 0.083, Duration: 3.336
+Val Loss: 0.2952, Test Accuracy: 0.824 ± 0.068, Duration: 3.678
+Val Loss: 0.2293, Test Accuracy: 0.830 ± 0.075, Duration: 4.763
+Val Loss: 0.1925, Test Accuracy: 0.873 ± 0.079, Duration: 4.792
+Val Loss: 0.2248, Test Accuracy: 0.851 ± 0.041, Duration: 5.085
+Val Loss: 0.2125, Test Accuracy: 0.841 ± 0.078, Duration: 5.605
+Val Loss: 0.2777, Test Accuracy: 0.835 ± 0.080, Duration: 6.158
+Val Loss: 0.2288, Test Accuracy: 0.873 ± 0.075, Duration: 6.369
+Val Loss: 0.1894, Test Accuracy: 0.862 ± 0.066, Duration: 6.780
+Val Loss: 0.2356, Test Accuracy: 0.868 ± 0.083, Duration: 7.710
+Val Loss: 0.2082, Test Accuracy: 0.830 ± 0.085, Duration: 7.698
+Val Loss: 0.2340, Test Accuracy: 0.799 ± 0.092, Duration: 8.004
+Val Loss: 0.2120, Test Accuracy: 0.824 ± 0.112, Duration: 8.536
+Val Loss: 0.2496, Test Accuracy: 0.846 ± 0.085, Duration: 9.679
+Val Loss: 0.2597, Test Accuracy: 0.851 ± 0.054, Duration: 9.220
+Val Loss: 0.2132, Test Accuracy: 0.867 ± 0.067, Duration: 9.552
+Val Loss: 0.2410, Test Accuracy: 0.809 ± 0.105, Duration: 10.206
+Val Loss: 0.2425, Test Accuracy: 0.861 ± 0.108, Duration: 11.589
+Best result - 0.862 ± 0.066 - D
+-----
+MUTAG - GIN0 - C
+ 
+Val Loss: 0.2913, Test Accuracy: 0.857 ± 0.096, Duration: 2.933 
+Val Loss: 0.2764, Test Accuracy: 0.873 ± 0.093, Duration: 2.933 
+Val Loss: 0.2554, Test Accuracy: 0.868 ± 0.093, Duration: 2.966 
+Val Loss: 0.2243, Test Accuracy: 0.863 ± 0.099, Duration: 3.109 
+Val Loss: 0.2553, Test Accuracy: 0.809 ± 0.103, Duration: 4.274 
+Val Loss: 0.2473, Test Accuracy: 0.840 ± 0.090, Duration: 4.353 
+Val Loss: 0.2058, Test Accuracy: 0.879 ± 0.099, Duration: 4.430 
+Val Loss: 0.1972, Test Accuracy: 0.862 ± 0.086, Duration: 4.659 
+Val Loss: 0.2680, Test Accuracy: 0.804 ± 0.069, Duration: 5.614 
+Val Loss: 0.2388, Test Accuracy: 0.867 ± 0.066, Duration: 5.726 
+Val Loss: 0.2528, Test Accuracy: 0.808 ± 0.098, Duration: 5.892 
+Val Loss: 0.2282, Test Accuracy: 0.852 ± 0.077, Duration: 6.339 
+Val Loss: 0.2347, Test Accuracy: 0.825 ± 0.061, Duration: 7.057 
+Val Loss: 0.2449, Test Accuracy: 0.804 ± 0.069, Duration: 7.140 
+Val Loss: 0.2533, Test Accuracy: 0.804 ± 0.073, Duration: 7.316 
+Val Loss: 0.2670, Test Accuracy: 0.798 ± 0.087, Duration: 7.781
+Val Loss: 0.2515, Test Accuracy: 0.814 ± 0.082, Duration: 8.211 
+Val Loss: 0.2495, Test Accuracy: 0.824 ± 0.086, Duration: 8.293 
+Val Loss: 0.2557, Test Accuracy: 0.814 ± 0.081, Duration: 8.671 
+Val Loss: 0.2765, Test Accuracy: 0.830 ± 0.047, Duration: 9.340
+Best result - 0.862 ± 0.086 - C
+-----
+MUTAG - GIN0 - B
+Val Loss: 0.2715, Test Accuracy: 0.808 ± 0.113, Duration: 2.486
+Val Loss: 0.2793, Test Accuracy: 0.831 ± 0.116, Duration: 2.487
+Val Loss: 0.2829, Test Accuracy: 0.841 ± 0.061, Duration: 2.590
+Val Loss: 0.2762, Test Accuracy: 0.798 ± 0.078, Duration: 2.563
+Val Loss: 0.2808, Test Accuracy: 0.836 ± 0.083, Duration: 3.289
+Val Loss: 0.2490, Test Accuracy: 0.835 ± 0.084, Duration: 3.307
+Val Loss: 0.2318, Test Accuracy: 0.835 ± 0.067, Duration: 3.384
+Val Loss: 0.2316, Test Accuracy: 0.840 ± 0.090, Duration: 3.524
+Val Loss: 0.2590, Test Accuracy: 0.792 ± 0.097, Duration: 4.197
+Val Loss: 0.2341, Test Accuracy: 0.857 ± 0.082, Duration: 4.201
+Val Loss: 0.2300, Test Accuracy: 0.820 ± 0.082, Duration: 4.277
+Val Loss: 0.2510, Test Accuracy: 0.808 ± 0.096, Duration: 4.525
+Val Loss: 0.2661, Test Accuracy: 0.803 ± 0.120, Duration: 5.038
+Val Loss: 0.2361, Test Accuracy: 0.825 ± 0.096, Duration: 5.156
+Val Loss: 0.2391, Test Accuracy: 0.840 ± 0.098, Duration: 5.678
+Val Loss: 0.2485, Test Accuracy: 0.820 ± 0.099, Duration: 5.941
+Val Loss: 0.2323, Test Accuracy: 0.807 ± 0.109, Duration: 6.391
+Val Loss: 0.2565, Test Accuracy: 0.808 ± 0.104, Duration: 6.407
+Val Loss: 0.2534, Test Accuracy: 0.799 ± 0.068, Duration: 6.659
+Val Loss: 0.2545, Test Accuracy: 0.830 ± 0.090, Duration: 7.193
+Best result - 0.820 ± 0.082 - B
+-----
+MUTAG - GIN0 - A
+Val Loss: 0.2784, Test Accuracy: 0.835 ± 0.067, Duration: 2.726
+Val Loss: 0.2866, Test Accuracy: 0.825 ± 0.096, Duration: 2.827
+Val Loss: 0.2727, Test Accuracy: 0.852 ± 0.081, Duration: 2.853
+Val Loss: 0.2765, Test Accuracy: 0.846 ± 0.073, Duration: 2.820
+Val Loss: 0.2670, Test Accuracy: 0.857 ± 0.082, Duration: 3.652
+Val Loss: 0.2230, Test Accuracy: 0.839 ± 0.096, Duration: 3.742
+Val Loss: 0.2231, Test Accuracy: 0.856 ± 0.071, Duration: 3.804
+Val Loss: 0.2394, Test Accuracy: 0.836 ± 0.084, Duration: 4.052
+Val Loss: 0.2536, Test Accuracy: 0.841 ± 0.105, Duration: 4.844
+Val Loss: 0.2296, Test Accuracy: 0.863 ± 0.090, Duration: 4.779
+Val Loss: 0.2008, Test Accuracy: 0.787 ± 0.074, Duration: 4.796
+Val Loss: 0.2161, Test Accuracy: 0.798 ± 0.082, Duration: 5.163
+Val Loss: 0.2463, Test Accuracy: 0.803 ± 0.094, Duration: 5.699
+Val Loss: 0.2537, Test Accuracy: 0.819 ± 0.100, Duration: 6.082
+Val Loss: 0.2496, Test Accuracy: 0.835 ± 0.076, Duration: 6.547
+Val Loss: 0.2477, Test Accuracy: 0.873 ± 0.050, Duration: 6.277
+Val Loss: 0.2666, Test Accuracy: 0.873 ± 0.051, Duration: 6.620
+Val Loss: 0.2163, Test Accuracy: 0.782 ± 0.118, Duration: 6.620
+Val Loss: 0.2253, Test Accuracy: 0.788 ± 0.069, Duration: 6.817
+Val Loss: 0.2543, Test Accuracy: 0.857 ± 0.085, Duration: 7.266
+Best result - 0.787 ± 0.074 - A
+-----
+MUTAG - GIN - None
+Val Loss: 0.3307, Test Accuracy: 0.804 ± 0.092, Duration: 2.053
+Val Loss: 0.2956, Test Accuracy: 0.804 ± 0.132, Duration: 2.059
+Val Loss: 0.3049, Test Accuracy: 0.831 ± 0.081, Duration: 2.066
+Val Loss: 0.2876, Test Accuracy: 0.841 ± 0.078, Duration: 2.131
+Val Loss: 0.3093, Test Accuracy: 0.825 ± 0.094, Duration: 2.488
+Val Loss: 0.2699, Test Accuracy: 0.840 ± 0.067, Duration: 2.493
+Val Loss: 0.2696, Test Accuracy: 0.818 ± 0.060, Duration: 2.485
+Val Loss: 0.3185, Test Accuracy: 0.777 ± 0.092, Duration: 2.575
+Val Loss: 0.2734, Test Accuracy: 0.820 ± 0.086, Duration: 2.798
+Val Loss: 0.2077, Test Accuracy: 0.830 ± 0.064, Duration: 2.826
+Val Loss: 0.2352, Test Accuracy: 0.841 ± 0.074, Duration: 2.877
+Val Loss: 0.2777, Test Accuracy: 0.837 ± 0.094, Duration: 3.045
+Val Loss: 0.2658, Test Accuracy: 0.825 ± 0.056, Duration: 3.011
+Val Loss: 0.2283, Test Accuracy: 0.809 ± 0.071, Duration: 3.034
+Val Loss: 0.2684, Test Accuracy: 0.798 ± 0.080, Duration: 3.098
+Val Loss: 0.2475, Test Accuracy: 0.792 ± 0.125, Duration: 3.342
+Val Loss: 0.2416, Test Accuracy: 0.818 ± 0.094, Duration: 3.333
+Val Loss: 0.2842, Test Accuracy: 0.777 ± 0.059, Duration: 3.388
+Val Loss: 0.2404, Test Accuracy: 0.767 ± 0.078, Duration: 3.487
+Val Loss: 0.2688, Test Accuracy: 0.792 ± 0.113, Duration: 3.699
+Best result - 0.830 ± 0.064 - None
+-----
+MUTAG - GIN - D
+Val Loss: 0.3123, Test Accuracy: 0.825 ± 0.093, Duration: 3.784
+Val Loss: 0.2691, Test Accuracy: 0.857 ± 0.086, Duration: 3.866
+Val Loss: 0.2927, Test Accuracy: 0.841 ± 0.086, Duration: 4.077
+Val Loss: 0.2749, Test Accuracy: 0.867 ± 0.080, Duration: 4.350
+Val Loss: 0.2501, Test Accuracy: 0.863 ± 0.100, Duration: 5.738
+Val Loss: 0.2378, Test Accuracy: 0.857 ± 0.089, Duration: 5.784
+Val Loss: 0.1950, Test Accuracy: 0.894 ± 0.074, Duration: 6.131
+Val Loss: 0.2088, Test Accuracy: 0.835 ± 0.073, Duration: 6.609
+Val Loss: 0.2317, Test Accuracy: 0.825 ± 0.086, Duration: 7.464
+Val Loss: 0.2223, Test Accuracy: 0.825 ± 0.126, Duration: 7.699
+Val Loss: 0.2286, Test Accuracy: 0.884 ± 0.077, Duration: 8.099
+Val Loss: 0.2199, Test Accuracy: 0.899 ± 0.076, Duration: 9.196
+Val Loss: 0.2141, Test Accuracy: 0.831 ± 0.091, Duration: 8.930
+Val Loss: 0.2415, Test Accuracy: 0.879 ± 0.074, Duration: 9.222
+Val Loss: 0.2124, Test Accuracy: 0.857 ± 0.056, Duration: 10.131
+Val Loss: 0.2673, Test Accuracy: 0.840 ± 0.078, Duration: 11.943
+Val Loss: 0.2535, Test Accuracy: 0.819 ± 0.104, Duration: 11.379
+Val Loss: 0.2100, Test Accuracy: 0.834 ± 0.118, Duration: 12.204
+Val Loss: 0.2259, Test Accuracy: 0.820 ± 0.108, Duration: 12.705
+Val Loss: 0.2022, Test Accuracy: 0.809 ± 0.122, Duration: 15.053
+Best result - 0.894 ± 0.074 - D
+-----
+MUTAG - GIN - C
+ 
+Val Loss: 0.3079, Test Accuracy: 0.852 ± 0.077, Duration: 3.636 
+Val Loss: 0.2454, Test Accuracy: 0.852 ± 0.081, Duration: 3.451 
+Val Loss: 0.2312, Test Accuracy: 0.889 ± 0.076, Duration: 3.518 
+Val Loss: 0.2450, Test Accuracy: 0.841 ± 0.099, Duration: 3.705 
+Val Loss: 0.2215, Test Accuracy: 0.813 ± 0.104, Duration: 5.138 
+Val Loss: 0.2241, Test Accuracy: 0.841 ± 0.085, Duration: 5.148 
+Val Loss: 0.2182, Test Accuracy: 0.852 ± 0.085, Duration: 5.319 
+Val Loss: 0.2384, Test Accuracy: 0.847 ± 0.090, Duration: 5.516
+Val Loss: 0.2159, Test Accuracy: 0.856 ± 0.090, Duration: 6.628 
+Val Loss: 0.2235, Test Accuracy: 0.830 ± 0.055, Duration: 6.714 
+Val Loss: 0.2335, Test Accuracy: 0.852 ± 0.107, Duration: 6.916 
+Val Loss: 0.2301, Test Accuracy: 0.861 ± 0.063, Duration: 7.195 
+Val Loss: 0.2501, Test Accuracy: 0.851 ± 0.092, Duration: 8.167 
+Val Loss: 0.2291, Test Accuracy: 0.825 ± 0.078, Duration: 8.328 
+Val Loss: 0.2633, Test Accuracy: 0.894 ± 0.066, Duration: 8.445 
+Val Loss: 0.2408, Test Accuracy: 0.846 ± 0.084, Duration: 8.920
+Val Loss: 0.2829, Test Accuracy: 0.824 ± 0.092, Duration: 9.662 
+Val Loss: 0.2559, Test Accuracy: 0.830 ± 0.073, Duration: 9.859 
+Val Loss: 0.2340, Test Accuracy: 0.787 ± 0.126, Duration: 10.041 
+Val Loss: 0.2418, Test Accuracy: 0.851 ± 0.078, Duration: 10.787
+Best result - 0.856 ± 0.090 - C
+-----
+MUTAG - GIN - B
+Val Loss: 0.2863, Test Accuracy: 0.819 ± 0.112, Duration: 2.910
+Val Loss: 0.3131, Test Accuracy: 0.808 ± 0.123, Duration: 2.809
+Val Loss: 0.2794, Test Accuracy: 0.840 ± 0.088, Duration: 2.790
+Val Loss: 0.2765, Test Accuracy: 0.829 ± 0.092, Duration: 2.883
+Val Loss: 0.2372, Test Accuracy: 0.841 ± 0.065, Duration: 3.820
+Val Loss: 0.2352, Test Accuracy: 0.836 ± 0.083, Duration: 3.895
+Val Loss: 0.2179, Test Accuracy: 0.809 ± 0.060, Duration: 3.945
+Val Loss: 0.2367, Test Accuracy: 0.874 ± 0.103, Duration: 4.206
+Val Loss: 0.2267, Test Accuracy: 0.842 ± 0.078, Duration: 4.951
+Val Loss: 0.2628, Test Accuracy: 0.798 ± 0.054, Duration: 5.122
+Val Loss: 0.2331, Test Accuracy: 0.836 ± 0.076, Duration: 5.248
+Val Loss: 0.2082, Test Accuracy: 0.793 ± 0.096, Duration: 5.302
+Val Loss: 0.2546, Test Accuracy: 0.835 ± 0.095, Duration: 5.765
+Val Loss: 0.2508, Test Accuracy: 0.782 ± 0.078, Duration: 5.912
+Val Loss: 0.2313, Test Accuracy: 0.797 ± 0.104, Duration: 6.355
+Val Loss: 0.2730, Test Accuracy: 0.776 ± 0.117, Duration: 6.424
+Val Loss: 0.2589, Test Accuracy: 0.793 ± 0.083, Duration: 6.824
+Val Loss: 0.2599, Test Accuracy: 0.825 ± 0.093, Duration: 6.993
+Val Loss: 0.2726, Test Accuracy: 0.862 ± 0.057, Duration: 7.609
+Val Loss: 0.2550, Test Accuracy: 0.792 ± 0.104, Duration: 7.671
+Best result - 0.793 ± 0.096 - B
+
+
+
+
+
+MUTAG - GCN - None
+Val Loss: 0.5329, Test Accuracy: 0.707 ± 0.107, Duration: 2.860
+Val Loss: 0.5072, Test Accuracy: 0.739 ± 0.093, Duration: 2.862
+Val Loss: 0.4892, Test Accuracy: 0.734 ± 0.079, Duration: 3.001
+Val Loss: 0.5162, Test Accuracy: 0.723 ± 0.116, Duration: 3.406
+Val Loss: 0.5051, Test Accuracy: 0.734 ± 0.095, Duration: 3.242
+Val Loss: 0.4820, Test Accuracy: 0.713 ± 0.091, Duration: 3.266
+Val Loss: 0.5018, Test Accuracy: 0.728 ± 0.112, Duration: 3.683
+Val Loss: 0.4939, Test Accuracy: 0.734 ± 0.080, Duration: 3.736
+Val Loss: 0.4904, Test Accuracy: 0.744 ± 0.112, Duration: 3.890
+Best result - 0.713 ± 0.091 - None
+MUTAG - GCN: 0.713 ± 0.091
+-----
+MUTAG - GCN - D
+Val Loss: 0.5219, Test Accuracy: 0.739 ± 0.084, Duration: 6.036
+Val Loss: 0.4990, Test Accuracy: 0.723 ± 0.096, Duration: 5.912
+Val Loss: 0.4781, Test Accuracy: 0.735 ± 0.088, Duration: 5.967
+Val Loss: 0.4964, Test Accuracy: 0.729 ± 0.112, Duration: 7.524
+Val Loss: 0.4765, Test Accuracy: 0.745 ± 0.093, Duration: 7.979
+Val Loss: 0.4578, Test Accuracy: 0.761 ± 0.071, Duration: 8.628
+Val Loss: 0.4703, Test Accuracy: 0.745 ± 0.089, Duration: 9.929
+Val Loss: 0.4691, Test Accuracy: 0.734 ± 0.090, Duration: 10.345
+Val Loss: 0.4559, Test Accuracy: 0.740 ± 0.094, Duration: 11.169
+Best result - 0.740 ± 0.094 - D
+MUTAG - GCN: 0.740 ± 0.094
+-----
+MUTAG - GCN - C
+
+Val Loss: 0.5028, Test Accuracy: 0.734 ± 0.099, Duration: 5.671
+Val Loss: 0.4839, Test Accuracy: 0.735 ± 0.090, Duration: 5.364
+Val Loss: 0.4787, Test Accuracy: 0.729 ± 0.104, Duration: 5.361
+Val Loss: 0.4939, Test Accuracy: 0.734 ± 0.103, Duration: 6.966
+Val Loss: 0.4718, Test Accuracy: 0.744 ± 0.090, Duration: 7.348
+Val Loss: 0.4659, Test Accuracy: 0.750 ± 0.083, Duration: 6.956
+Val Loss: 0.4734, Test Accuracy: 0.750 ± 0.097, Duration: 8.289
+Val Loss: 0.4796, Test Accuracy: 0.745 ± 0.099, Duration: 8.717
+Val Loss: 0.4629, Test Accuracy: 0.761 ± 0.106, Duration: 9.211
+Best result - 0.761 ± 0.106 - C
+MUTAG - GCN: 0.761 ± 0.106
+-----
+MUTAG - GCN - B
+Val Loss: 0.5015, Test Accuracy: 0.735 ± 0.082, Duration: 4.127
+Val Loss: 0.4911, Test Accuracy: 0.735 ± 0.093, Duration: 4.235
+Val Loss: 0.4732, Test Accuracy: 0.750 ± 0.079, Duration: 4.521
+Val Loss: 0.4795, Test Accuracy: 0.745 ± 0.070, Duration: 5.467
+Val Loss: 0.4791, Test Accuracy: 0.735 ± 0.102, Duration: 5.783
+Val Loss: 0.4641, Test Accuracy: 0.723 ± 0.071, Duration: 5.581
+Val Loss: 0.4810, Test Accuracy: 0.755 ± 0.080, Duration: 6.618
+Val Loss: 0.4687, Test Accuracy: 0.766 ± 0.091, Duration: 7.013
+Val Loss: 0.4658, Test Accuracy: 0.745 ± 0.070, Duration: 6.729
+Best result - 0.723 ± 0.071 - B
+MUTAG - GCN: 0.723 ± 0.071
+-----
+MUTAG - GCN - A
+Val Loss: 0.5010, Test Accuracy: 0.729 ± 0.093, Duration: 4.313
+Val Loss: 0.4906, Test Accuracy: 0.734 ± 0.112, Duration: 4.488
+Val Loss: 0.4756, Test Accuracy: 0.729 ± 0.091, Duration: 4.675
+Val Loss: 0.4855, Test Accuracy: 0.761 ± 0.071, Duration: 5.697
+Val Loss: 0.4712, Test Accuracy: 0.766 ± 0.093, Duration: 5.418
+Val Loss: 0.4730, Test Accuracy: 0.734 ± 0.096, Duration: 5.535
+Val Loss: 0.4693, Test Accuracy: 0.750 ± 0.075, Duration: 6.826
+Val Loss: 0.4725, Test Accuracy: 0.756 ± 0.111, Duration: 7.419
+Val Loss: 0.4601, Test Accuracy: 0.735 ± 0.085, Duration: 7.319
+Best result - 0.735 ± 0.085 - A
+MUTAG - GCN: 0.735 ± 0.085
+-----
+MUTAG - GraphSAGE - None
+Val Loss: 0.5248, Test Accuracy: 0.718 ± 0.105, Duration: 2.093
+Val Loss: 0.5042, Test Accuracy: 0.734 ± 0.117, Duration: 2.105
+Val Loss: 0.4894, Test Accuracy: 0.755 ± 0.113, Duration: 2.137
+Val Loss: 0.5118, Test Accuracy: 0.744 ± 0.122, Duration: 2.305
+Val Loss: 0.4925, Test Accuracy: 0.739 ± 0.091, Duration: 2.327
+Val Loss: 0.4844, Test Accuracy: 0.750 ± 0.090, Duration: 2.353
+Val Loss: 0.5095, Test Accuracy: 0.734 ± 0.106, Duration: 2.514
+Val Loss: 0.4871, Test Accuracy: 0.750 ± 0.109, Duration: 2.613
+Val Loss: 0.4811, Test Accuracy: 0.750 ± 0.109, Duration: 2.618
+Best result - 0.750 ± 0.109 - None
+MUTAG - GraphSAGE: 0.750 ± 0.109
+-----
+MUTAG - GraphSAGE - D
+Val Loss: 0.4992, Test Accuracy: 0.771 ± 0.109, Duration: 5.644
+Val Loss: 0.4800, Test Accuracy: 0.740 ± 0.084, Duration: 6.322
+Val Loss: 0.4806, Test Accuracy: 0.745 ± 0.074, Duration: 6.407
+Val Loss: 0.4721, Test Accuracy: 0.766 ± 0.073, Duration: 6.895
+Val Loss: 0.4667, Test Accuracy: 0.744 ± 0.112, Duration: 7.203
+Val Loss: 0.4672, Test Accuracy: 0.739 ± 0.086, Duration: 7.851
+Val Loss: 0.4654, Test Accuracy: 0.755 ± 0.124, Duration: 9.361
+Val Loss: 0.4646, Test Accuracy: 0.745 ± 0.074, Duration: 10.415
+Val Loss: 0.4650, Test Accuracy: 0.729 ± 0.115, Duration: 10.665
+Best result - 0.745 ± 0.074 - D
+MUTAG - GraphSAGE: 0.745 ± 0.074
+-----
+MUTAG - GraphSAGE - C
+
+Val Loss: 0.5134, Test Accuracy: 0.734 ± 0.095, Duration: 4.545
+Val Loss: 0.4790, Test Accuracy: 0.739 ± 0.081, Duration: 4.696
+Val Loss: 0.4673, Test Accuracy: 0.767 ± 0.065, Duration: 4.855
+Val Loss: 0.4927, Test Accuracy: 0.708 ± 0.112, Duration: 6.118
+Val Loss: 0.4614, Test Accuracy: 0.739 ± 0.064, Duration: 6.326
+Val Loss: 0.4544, Test Accuracy: 0.777 ± 0.089, Duration: 6.499
+Val Loss: 0.4901, Test Accuracy: 0.751 ± 0.092, Duration: 7.364
+Val Loss: 0.4698, Test Accuracy: 0.751 ± 0.059, Duration: 7.529
+Val Loss: 0.4445, Test Accuracy: 0.702 ± 0.082, Duration: 7.951
+Best result - 0.702 ± 0.082 - C
+MUTAG - GraphSAGE: 0.702 ± 0.082
+-----
+MUTAG - GraphSAGE - B
+Val Loss: 0.5078, Test Accuracy: 0.734 ± 0.083, Duration: 3.698
+Val Loss: 0.4876, Test Accuracy: 0.745 ± 0.077, Duration: 3.601
+Val Loss: 0.4630, Test Accuracy: 0.730 ± 0.102, Duration: 3.663
+Val Loss: 0.5031, Test Accuracy: 0.739 ± 0.085, Duration: 4.478
+Val Loss: 0.4721, Test Accuracy: 0.740 ± 0.062, Duration: 4.546
+Val Loss: 0.4722, Test Accuracy: 0.761 ± 0.067, Duration: 4.602
+Val Loss: 0.4748, Test Accuracy: 0.729 ± 0.108, Duration: 5.374
+Val Loss: 0.4718, Test Accuracy: 0.734 ± 0.088, Duration: 5.587
+Val Loss: 0.4671, Test Accuracy: 0.772 ± 0.060, Duration: 5.437
+Best result - 0.730 ± 0.102 - B
+MUTAG - GraphSAGE: 0.730 ± 0.102
+-----
+MUTAG - GraphSAGE - A
+Val Loss: 0.4836, Test Accuracy: 0.729 ± 0.104, Duration: 3.539
+Val Loss: 0.4884, Test Accuracy: 0.740 ± 0.091, Duration: 3.605
+Val Loss: 0.4570, Test Accuracy: 0.730 ± 0.083, Duration: 3.702
+Val Loss: 0.4786, Test Accuracy: 0.719 ± 0.114, Duration: 4.456
+Val Loss: 0.4783, Test Accuracy: 0.744 ± 0.076, Duration: 4.481
+Val Loss: 0.4713, Test Accuracy: 0.740 ± 0.057, Duration: 4.539
+Val Loss: 0.4924, Test Accuracy: 0.729 ± 0.084, Duration: 5.461
+Val Loss: 0.4670, Test Accuracy: 0.756 ± 0.099, Duration: 5.656
+Val Loss: 0.4524, Test Accuracy: 0.755 ± 0.063, Duration: 5.324
+Best result - 0.755 ± 0.063 - A
+MUTAG - GraphSAGE: 0.755 ± 0.063
+-----
+MUTAG - GIN0 - None
+Val Loss: 0.2753, Test Accuracy: 0.788 ± 0.081, Duration: 2.340
+Val Loss: 0.2673, Test Accuracy: 0.819 ± 0.090, Duration: 2.294
+Val Loss: 0.2471, Test Accuracy: 0.842 ± 0.078, Duration: 2.361
+Val Loss: 0.2510, Test Accuracy: 0.852 ± 0.085, Duration: 2.578
+Val Loss: 0.2434, Test Accuracy: 0.846 ± 0.073, Duration: 2.598
+Val Loss: 0.2667, Test Accuracy: 0.851 ± 0.092, Duration: 2.634
+Val Loss: 0.2275, Test Accuracy: 0.782 ± 0.093, Duration: 2.887
+Val Loss: 0.2415, Test Accuracy: 0.840 ± 0.107, Duration: 2.920
+Val Loss: 0.2652, Test Accuracy: 0.808 ± 0.121, Duration: 3.025
+Best result - 0.782 ± 0.093 - None
+MUTAG - GIN0: 0.782 ± 0.093
+-----
+MUTAG - GIN0 - D
+Val Loss: 0.2378, Test Accuracy: 0.841 ± 0.060, Duration: 5.490
+Val Loss: 0.2335, Test Accuracy: 0.847 ± 0.103, Duration: 5.755
+Val Loss: 0.2116, Test Accuracy: 0.846 ± 0.098, Duration: 6.039
+Val Loss: 0.2695, Test Accuracy: 0.793 ± 0.094, Duration: 7.455
+Val Loss: 0.2082, Test Accuracy: 0.856 ± 0.090, Duration: 7.537
+Val Loss: 0.1944, Test Accuracy: 0.852 ± 0.088, Duration: 8.300
+Val Loss: 0.2363, Test Accuracy: 0.824 ± 0.080, Duration: 9.408
+Val Loss: 0.2075, Test Accuracy: 0.836 ± 0.122, Duration: 9.579
+Val Loss: 0.2038, Test Accuracy: 0.884 ± 0.081, Duration: 10.669
+Best result - 0.852 ± 0.088 - D
+MUTAG - GIN0: 0.852 ± 0.088
+-----
+MUTAG - GIN0 - C
+
+Val Loss: 0.2396, Test Accuracy: 0.851 ± 0.047, Duration: 5.123
+Val Loss: 0.2445, Test Accuracy: 0.793 ± 0.090, Duration: 4.707
+Val Loss: 0.1961, Test Accuracy: 0.841 ± 0.078, Duration: 4.870
+Val Loss: 0.2252, Test Accuracy: 0.766 ± 0.124, Duration: 6.230
+Val Loss: 0.2273, Test Accuracy: 0.830 ± 0.092, Duration: 6.307
+Val Loss: 0.2115, Test Accuracy: 0.841 ± 0.078, Duration: 6.790
+Val Loss: 0.2743, Test Accuracy: 0.846 ± 0.071, Duration: 7.959
+Val Loss: 0.2639, Test Accuracy: 0.802 ± 0.114, Duration: 8.287
+Val Loss: 0.2471, Test Accuracy: 0.814 ± 0.098, Duration: 8.417
+Best result - 0.841 ± 0.078 - C
+MUTAG - GIN0: 0.841 ± 0.078
+-----
+MUTAG - GIN0 - B
+Val Loss: 0.2639, Test Accuracy: 0.868 ± 0.061, Duration: 3.777
+Val Loss: 0.2726, Test Accuracy: 0.846 ± 0.106, Duration: 3.808
+Val Loss: 0.2460, Test Accuracy: 0.808 ± 0.068, Duration: 3.968
+Val Loss: 0.2605, Test Accuracy: 0.824 ± 0.109, Duration: 4.966
+Val Loss: 0.2463, Test Accuracy: 0.846 ± 0.083, Duration: 4.785
+Val Loss: 0.2226, Test Accuracy: 0.857 ± 0.086, Duration: 4.891
+Val Loss: 0.2669, Test Accuracy: 0.818 ± 0.111, Duration: 5.835
+Val Loss: 0.2180, Test Accuracy: 0.830 ± 0.093, Duration: 5.846
+Val Loss: 0.2147, Test Accuracy: 0.847 ± 0.087, Duration: 6.262
+Best result - 0.847 ± 0.087 - B
+MUTAG - GIN0: 0.847 ± 0.087
+-----
+MUTAG - GIN0 - A
+Val Loss: 0.2297, Test Accuracy: 0.857 ± 0.082, Duration: 3.618
+Val Loss: 0.2216, Test Accuracy: 0.809 ± 0.079, Duration: 3.622
+Val Loss: 0.2216, Test Accuracy: 0.851 ± 0.086, Duration: 3.767
+Val Loss: 0.2618, Test Accuracy: 0.787 ± 0.131, Duration: 4.623
+Val Loss: 0.2418, Test Accuracy: 0.786 ± 0.102, Duration: 4.797
+Val Loss: 0.2086, Test Accuracy: 0.824 ± 0.084, Duration: 4.931
+Val Loss: 0.2691, Test Accuracy: 0.809 ± 0.096, Duration: 5.675
+Val Loss: 0.2420, Test Accuracy: 0.856 ± 0.066, Duration: 5.836
+Val Loss: 0.2597, Test Accuracy: 0.818 ± 0.120, Duration: 5.974
+Best result - 0.824 ± 0.084 - A
+MUTAG - GIN0: 0.824 ± 0.084
+-----
+MUTAG - GIN - None
+Val Loss: 0.2945, Test Accuracy: 0.830 ± 0.085, Duration: 2.361
+Val Loss: 0.2284, Test Accuracy: 0.825 ± 0.092, Duration: 2.416
+Val Loss: 0.2241, Test Accuracy: 0.820 ± 0.099, Duration: 2.413
+Val Loss: 0.2092, Test Accuracy: 0.857 ± 0.074, Duration: 2.684
+Val Loss: 0.2244, Test Accuracy: 0.797 ± 0.083, Duration: 2.708
+Val Loss: 0.2562, Test Accuracy: 0.835 ± 0.080, Duration: 2.755
+Val Loss: 0.2485, Test Accuracy: 0.798 ± 0.111, Duration: 2.993
+Val Loss: 0.2950, Test Accuracy: 0.813 ± 0.101, Duration: 2.993
+Val Loss: 0.2421, Test Accuracy: 0.846 ± 0.073, Duration: 3.053
+Best result - 0.857 ± 0.074 - None
+MUTAG - GIN: 0.857 ± 0.074
+-----
+MUTAG - GIN - D
+Val Loss: 0.2304, Test Accuracy: 0.839 ± 0.114, Duration: 5.669
+Val Loss: 0.2521, Test Accuracy: 0.857 ± 0.089, Duration: 5.842
+Val Loss: 0.2249, Test Accuracy: 0.873 ± 0.061, Duration: 6.025
+Val Loss: 0.2207, Test Accuracy: 0.825 ± 0.048, Duration: 7.407
+Val Loss: 0.2287, Test Accuracy: 0.879 ± 0.093, Duration: 7.601
+Val Loss: 0.2444, Test Accuracy: 0.836 ± 0.114, Duration: 8.119
+Val Loss: 0.2608, Test Accuracy: 0.840 ± 0.078, Duration: 9.453
+Val Loss: 0.2250, Test Accuracy: 0.836 ± 0.094, Duration: 9.740
+Val Loss: 0.1975, Test Accuracy: 0.867 ± 0.080, Duration: 10.592
+Best result - 0.867 ± 0.080 - D
+MUTAG - GIN: 0.867 ± 0.080
+-----
+MUTAG - GIN - C
+
+Val Loss: 0.2593, Test Accuracy: 0.814 ± 0.056, Duration: 5.529
+Val Loss: 0.2238, Test Accuracy: 0.846 ± 0.075, Duration: 5.379
+Val Loss: 0.1808, Test Accuracy: 0.846 ± 0.067, Duration: 5.194
+Val Loss: 0.2171, Test Accuracy: 0.835 ± 0.094, Duration: 6.614
+Val Loss: 0.1979, Test Accuracy: 0.852 ± 0.064, Duration: 6.658
+Val Loss: 0.2289, Test Accuracy: 0.873 ± 0.062, Duration: 6.920
+Val Loss: 0.2555, Test Accuracy: 0.825 ± 0.089, Duration: 8.590
+Val Loss: 0.2240, Test Accuracy: 0.798 ± 0.101, Duration: 8.954
+Val Loss: 0.2404, Test Accuracy: 0.802 ± 0.113, Duration: 8.384
+Best result - 0.846 ± 0.067 - C
+MUTAG - GIN: 0.846 ± 0.067
+-----
+MUTAG - GIN - B
+Val Loss: 0.2449, Test Accuracy: 0.846 ± 0.105, Duration: 3.940
+Val Loss: 0.2078, Test Accuracy: 0.830 ± 0.102, Duration: 4.057
+Val Loss: 0.2357, Test Accuracy: 0.868 ± 0.093, Duration: 4.102
+Val Loss: 0.2188, Test Accuracy: 0.829 ± 0.103, Duration: 4.933
+Val Loss: 0.2158, Test Accuracy: 0.830 ± 0.047, Duration: 5.019
+Val Loss: 0.2204, Test Accuracy: 0.824 ± 0.072, Duration: 5.157
+Val Loss: 0.2254, Test Accuracy: 0.830 ± 0.078, Duration: 6.384
+Val Loss: 0.2586, Test Accuracy: 0.830 ± 0.113, Duration: 6.513
+Val Loss: 0.2452, Test Accuracy: 0.824 ± 0.087, Duration: 6.330
+Best result - 0.830 ± 0.102 - B
+MUTAG - GIN: 0.830 ± 0.102
+-----
+MUTAG - GIN - A
+Val Loss: 0.2238, Test Accuracy: 0.873 ± 0.079, Duration: 3.910
+Val Loss: 0.2293, Test Accuracy: 0.830 ± 0.071, Duration: 3.937
+Val Loss: 0.2276, Test Accuracy: 0.856 ± 0.088, Duration: 4.114
+Val Loss: 0.2477, Test Accuracy: 0.775 ± 0.130, Duration: 4.796
+Val Loss: 0.1998, Test Accuracy: 0.851 ± 0.081, Duration: 4.788
+Val Loss: 0.2210, Test Accuracy: 0.792 ± 0.090, Duration: 4.941
+Val Loss: 0.2367, Test Accuracy: 0.809 ± 0.110, Duration: 5.761
+Val Loss: 0.1960, Test Accuracy: 0.825 ± 0.108, Duration: 5.995
+Val Loss: 0.2616, Test Accuracy: 0.857 ± 0.061, Duration: 6.142
+Best result - 0.825 ± 0.108 - A
+MUTAG - GIN: 0.825 ± 0.108
+-----
+MUTAG - ASAP - None
+Val Loss: 0.5333, Test Accuracy: 0.665 ± 0.070, Duration: 2.220
+Val Loss: 0.4974, Test Accuracy: 0.696 ± 0.086, Duration: 2.219
+Val Loss: 0.4867, Test Accuracy: 0.735 ± 0.070, Duration: 2.332
+Val Loss: 0.5133, Test Accuracy: 0.713 ± 0.075, Duration: 11.873
+Val Loss: 0.4833, Test Accuracy: 0.724 ± 0.114, Duration: 10.905
+Val Loss: 0.4801, Test Accuracy: 0.740 ± 0.090, Duration: 10.245
+Val Loss: 0.4845, Test Accuracy: 0.729 ± 0.070, Duration: 10.798
+Val Loss: 0.4664, Test Accuracy: 0.718 ± 0.111, Duration: 13.217
+Val Loss: 0.4527, Test Accuracy: 0.772 ± 0.110, Duration: 15.569
+Best result - 0.772 ± 0.110 - None
+MUTAG - ASAP: 0.772 ± 0.110
+-----
+MUTAG - ASAP - D
+Val Loss: 0.5089, Test Accuracy: 0.723 ± 0.109, Duration: 7.587
+Val Loss: 0.4803, Test Accuracy: 0.739 ± 0.073, Duration: 8.083
+Val Loss: 0.4739, Test Accuracy: 0.724 ± 0.092, Duration: 9.407
+Val Loss: 0.4938, Test Accuracy: 0.740 ± 0.079, Duration: 26.134
+Val Loss: 0.4703, Test Accuracy: 0.729 ± 0.102, Duration: 29.005
+Val Loss: 0.4655, Test Accuracy: 0.740 ± 0.118, Duration: 36.137
+Val Loss: 0.4881, Test Accuracy: 0.735 ± 0.091, Duration: 41.705
+Val Loss: 0.4045, Test Accuracy: 0.777 ± 0.106, Duration: 37.403
+Val Loss: 0.4639, Test Accuracy: 0.734 ± 0.075, Duration: 36.992
+Best result - 0.777 ± 0.106 - D
+MUTAG - ASAP: 0.777 ± 0.106
+-----
+MUTAG - ASAP - C
+
+Val Loss: 0.5028, Test Accuracy: 0.697 ± 0.077, Duration: 9.583
+Val Loss: 0.4679, Test Accuracy: 0.719 ± 0.095, Duration: 9.480
+Val Loss: 0.4696, Test Accuracy: 0.756 ± 0.090, Duration: 9.108
+Val Loss: 0.4218, Test Accuracy: 0.739 ± 0.123, Duration: 32.697
+Val Loss: 0.4003, Test Accuracy: 0.793 ± 0.115, Duration: 38.544
+Val Loss: 0.3148, Test Accuracy: 0.830 ± 0.102, Duration: 41.242
+Val Loss: 0.3963, Test Accuracy: 0.766 ± 0.107, Duration: 48.750
+Val Loss: 0.3398, Test Accuracy: 0.772 ± 0.112, Duration: 43.460
+Val Loss: 0.3591, Test Accuracy: 0.762 ± 0.137, Duration: 16.348
+Best result - 0.830 ± 0.102 - C
+MUTAG - ASAP: 0.830 ± 0.102
+-----
+MUTAG - ASAP - B
+Val Loss: 0.5054, Test Accuracy: 0.724 ± 0.064, Duration: 3.632
+Val Loss: 0.4835, Test Accuracy: 0.713 ± 0.122, Duration: 3.677
+Val Loss: 0.4767, Test Accuracy: 0.745 ± 0.068, Duration: 3.727
+Val Loss: 0.4393, Test Accuracy: 0.724 ± 0.085, Duration: 12.117
+Val Loss: 0.3851, Test Accuracy: 0.730 ± 0.074, Duration: 12.533
+Val Loss: 0.3893, Test Accuracy: 0.778 ± 0.094, Duration: 12.800
+Val Loss: 0.4155, Test Accuracy: 0.766 ± 0.091, Duration: 13.754
+Val Loss: 0.3334, Test Accuracy: 0.767 ± 0.100, Duration: 13.051
+Val Loss: 0.3762, Test Accuracy: 0.804 ± 0.073, Duration: 13.349
+Best result - 0.767 ± 0.100 - B
+MUTAG - ASAP: 0.767 ± 0.100
+-----
+MUTAG - ASAP - A
+Val Loss: 0.4942, Test Accuracy: 0.745 ± 0.078, Duration: 3.599
+Val Loss: 0.4911, Test Accuracy: 0.718 ± 0.099, Duration: 3.580
+Val Loss: 0.4844, Test Accuracy: 0.739 ± 0.068, Duration: 3.594
+Val Loss: 0.4577, Test Accuracy: 0.756 ± 0.075, Duration: 12.483
+Val Loss: 0.4575, Test Accuracy: 0.767 ± 0.070, Duration: 12.702
+Val Loss: 0.4294, Test Accuracy: 0.762 ± 0.081, Duration: 12.671
+Val Loss: 0.4489, Test Accuracy: 0.794 ± 0.086, Duration: 13.721
+Val Loss: 0.4135, Test Accuracy: 0.751 ± 0.104, Duration: 13.733
+Val Loss: 0.4199, Test Accuracy: 0.761 ± 0.070, Duration: 13.712
+Best result - 0.751 ± 0.104 - A
+MUTAG - ASAP: 0.751 ± 0.104
+-----
+MUTAG - SAGPool - None
+Val Loss: 0.5237, Test Accuracy: 0.750 ± 0.103, Duration: 2.204
+Val Loss: 0.5054, Test Accuracy: 0.718 ± 0.102, Duration: 2.237
+Val Loss: 0.4899, Test Accuracy: 0.708 ± 0.099, Duration: 2.261
+Val Loss: 0.4133, Test Accuracy: 0.761 ± 0.088, Duration: 5.969
+Val Loss: 0.4288, Test Accuracy: 0.772 ± 0.081, Duration: 5.957
+Val Loss: 0.3657, Test Accuracy: 0.750 ± 0.066, Duration: 5.882
+Val Loss: 0.4774, Test Accuracy: 0.718 ± 0.108, Duration: 5.399
+Val Loss: 0.3924, Test Accuracy: 0.776 ± 0.070, Duration: 4.792
+Val Loss: 0.4025, Test Accuracy: 0.761 ± 0.080, Duration: 4.916
+Best result - 0.750 ± 0.066 - None
+MUTAG - SAGPool: 0.750 ± 0.066
+-----
+MUTAG - SAGPool - D
+Val Loss: 0.5057, Test Accuracy: 0.745 ± 0.108, Duration: 4.653
+Val Loss: 0.4778, Test Accuracy: 0.713 ± 0.079, Duration: 4.785
+Val Loss: 0.4645, Test Accuracy: 0.713 ± 0.070, Duration: 5.090
+Val Loss: 0.4336, Test Accuracy: 0.761 ± 0.092, Duration: 8.265
+Val Loss: 0.3848, Test Accuracy: 0.820 ± 0.095, Duration: 8.461
+Val Loss: 0.3641, Test Accuracy: 0.804 ± 0.099, Duration: 8.718
+Val Loss: 0.4339, Test Accuracy: 0.782 ± 0.094, Duration: 9.709
+Val Loss: 0.3826, Test Accuracy: 0.787 ± 0.083, Duration: 10.035
+Val Loss: 0.3601, Test Accuracy: 0.782 ± 0.058, Duration: 10.615
+Best result - 0.782 ± 0.058 - D
+MUTAG - SAGPool: 0.782 ± 0.058
+-----
+MUTAG - SAGPool - C
+
+Val Loss: 0.4978, Test Accuracy: 0.739 ± 0.084, Duration: 4.226
+Val Loss: 0.4872, Test Accuracy: 0.729 ± 0.081, Duration: 4.238
+Val Loss: 0.4651, Test Accuracy: 0.724 ± 0.084, Duration: 4.296
+Val Loss: 0.3635, Test Accuracy: 0.803 ± 0.082, Duration: 7.652
+Val Loss: 0.3532, Test Accuracy: 0.755 ± 0.112, Duration: 7.603
+Val Loss: 0.3260, Test Accuracy: 0.782 ± 0.080, Duration: 7.715
+Val Loss: 0.3343, Test Accuracy: 0.809 ± 0.078, Duration: 8.864
+Val Loss: 0.3174, Test Accuracy: 0.787 ± 0.066, Duration: 8.907
+Val Loss: 0.3057, Test Accuracy: 0.804 ± 0.065, Duration: 9.054
+Best result - 0.804 ± 0.065 - C
+MUTAG - SAGPool: 0.804 ± 0.065
+-----
+MUTAG - SAGPool - B
+Val Loss: 0.4948, Test Accuracy: 0.724 ± 0.102, Duration: 3.164
+Val Loss: 0.4908, Test Accuracy: 0.708 ± 0.079, Duration: 3.190
+Val Loss: 0.4804, Test Accuracy: 0.750 ± 0.083, Duration: 3.214
+Val Loss: 0.4116, Test Accuracy: 0.740 ± 0.071, Duration: 6.119
+Val Loss: 0.3164, Test Accuracy: 0.819 ± 0.067, Duration: 6.157
+Val Loss: 0.3200, Test Accuracy: 0.793 ± 0.097, Duration: 6.214
+Val Loss: 0.4100, Test Accuracy: 0.745 ± 0.069, Duration: 6.943
+Val Loss: 0.3201, Test Accuracy: 0.766 ± 0.067, Duration: 7.045
+Val Loss: 0.2840, Test Accuracy: 0.809 ± 0.066, Duration: 7.107
+Best result - 0.809 ± 0.066 - B
+MUTAG - SAGPool: 0.809 ± 0.066
+-----
+MUTAG - SAGPool - A
+Val Loss: 0.4963, Test Accuracy: 0.735 ± 0.086, Duration: 3.150
+Val Loss: 0.4841, Test Accuracy: 0.750 ± 0.090, Duration: 3.160
+Val Loss: 0.4688, Test Accuracy: 0.756 ± 0.069, Duration: 3.186
+Val Loss: 0.3963, Test Accuracy: 0.777 ± 0.103, Duration: 6.073
+Val Loss: 0.3806, Test Accuracy: 0.757 ± 0.092, Duration: 6.128
+Val Loss: 0.3392, Test Accuracy: 0.788 ± 0.088, Duration: 6.182
+Val Loss: 0.3462, Test Accuracy: 0.809 ± 0.078, Duration: 6.902
+Val Loss: 0.3742, Test Accuracy: 0.793 ± 0.108, Duration: 6.939
+Val Loss: 0.4324, Test Accuracy: 0.745 ± 0.078, Duration: 6.998
+Best result - 0.788 ± 0.088 - A
+MUTAG - SAGPool: 0.788 ± 0.088
+-----
