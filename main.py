@@ -25,17 +25,17 @@ parser.add_argument('--lr_decay_factor', type=float, default=0.5)
 parser.add_argument('--lr_decay_step_size', type=int, default=50)
 args = parser.parse_args()
 
-# layers = [1, 2, 3, 4, 5]
-# hiddens = [16, 32, 64, 128]
+layers = [1, 2, 3, 4, 5]
+hiddens = [16, 32, 64, 128]
 
-layers = [1, 2, 3, 4]
-hiddens = [16, 32, 64]
+# layers = [1, 2, 3, 4]
+# hiddens = [16, 32, 64]
 
 # layers = [2, 3, 4]
 # hiddens = [16, 32, 64]
 
-# datasets = ['MUTAG', 'PROTEINS', 'IMDB-BINARY', 'REDDIT-BINARY']  # , 'COLLAB']
-datasets = ['PROTEINS']  # , 'COLLAB']
+datasets = ['MUTAG', 'PROTEINS', 'IMDB-BINARY', 'REDDIT-BINARY', 'COLLAB']
+# datasets = ['PROTEINS']  # , 'COLLAB']
 nets = [
     # GCNWithJK,
     # GraphSAGEWithJK,
@@ -44,10 +44,10 @@ nets = [
     # Graclus,
     # TopK,
     # EdgePool,
-    # GCN,
-    # GraphSAGE,
-    # GIN0,
-    # GIN,
+    GCN,
+    GraphSAGE,
+    GIN0,
+    GIN,
     # DiffPool,
     ASAP,
     SAGPool,
@@ -65,8 +65,11 @@ def logger(info):
 
 
 results = []
+
 for dataset_name, Net in product(datasets, nets):
-    for i in ["None", "D", "C", "B", "A"]:
+    lst = ["GraphReLUEdge", "GraphReLUNode", "ReLU", "PReLU", "ELU", "LReLU"]
+    acc_lst = []
+    for i in lst:
         best_result = (float('inf'), 0, 0)  # (loss, acc, std)
         print('-----\n{} - {} - {}'.format(dataset_name, Net.__name__, i))
         for num_layers, hidden in product(layers, hiddens):
@@ -88,7 +91,12 @@ for dataset_name, Net in product(datasets, nets):
                 best_result = (loss, acc, std)
 
         desc = '{:.3f} ± {:.3f}'.format(best_result[1], best_result[2])
+        acc_lst.append(desc)
         print('Best result - {} - {}'.format(desc, i))
         print('{} - {}: {}'.format(dataset_name, model, desc))
         results += ['{} - {}: {}'.format(dataset_name, model, desc)]
+
+    with open(".\\result\\{}-{}.csv".format(dataset_name, Net.__name__), "w") as f:
+        f.write("   ".join(lst) + "\n")
+        f.write("   ".join(acc) + "\n")
 print('-----\n{}'.format('\n'.join(results)))

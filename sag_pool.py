@@ -7,8 +7,25 @@ from torch_geometric.nn import (GraphConv, SAGPooling, global_mean_pool,
 from drelu import DyReLUA, DyReLUB, DyReLUC
 from edgerelu import EdgeReluV2
 
-def relu_None(x, edge_index):
-    return F.relu(x)
+
+class xReLU(torch.nn.Module):
+    def __init__(self, kind):
+        super(xReLU, self).__init__()
+        self.kind = kind
+        self.PReLU = torch.nn.PReLU()
+
+    def forward(self, x, edge_index):
+        if self.kind == "ReLU":
+            return F.relu(x)
+        elif self.kind == "PReLU":
+            return self.PReLU(x)
+        elif self.kind == "ELU":
+            return F.elu(x, alpha=1)
+        elif self.kind == "LReLU":
+            return F.leaky_relu(x, negative_slope=0.01)
+        else:
+            return x
+
 
 class SAGPool(torch.nn.Module):
     def __init__(self, dataset, num_layers, hidden, ratio=0.8, kind="None"):
@@ -17,21 +34,21 @@ class SAGPool(torch.nn.Module):
         self.convs = torch.nn.ModuleList()
         self.pools = torch.nn.ModuleList()
 
-        if kind == "None":
-           self.relus = []
-        else:
-            self.relus = torch.nn.ModuleList()
+        self.kind = kind
+        self.relus = torch.nn.ModuleList()
         for i in range(num_layers):
-            if kind == "A":
-                self.relus.append(DyReLUA(hidden))
-            elif kind == "B":
-                self.relus.append(DyReLUB(hidden))
-            elif kind == "C":
+            if self.kind == "ReLU":
+                self.relus.append(xReLU("ReLU"))
+            elif self.kind == "ELU":
+                self.relus.append(xReLU("ELU"))
+            elif self.kind == "PReLU":
+                self.relus.append(xReLU("PReLU"))
+            elif self.kind == "LReLU":
+                self.relus.append(xReLU("LReLU"))
+            elif self.kind == "GraphReLUNode":
                 self.relus.append(DyReLUC(hidden))
-            elif kind == "D":
+            elif self.kind == "GraphReLUEdge":
                 self.relus.append(EdgeReluV2(hidden))
-            elif kind == "None":
-                self.relus.append(relu_None)
 
         self.convs.extend([
             GraphConv(hidden, hidden, aggr='mean')

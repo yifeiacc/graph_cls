@@ -239,7 +239,7 @@ class EdgeReluV2(MessagePassing):
 
         alpha = alpha.view(-1, 1, 1)
         # relu_coefs = (alpha * self.theta) * self.lambdas + self.init_v
-        relu_coefs = (self.theta * self.lambdas + self.init_v) * alpha
+        relu_coefs = self.theta * self.lambdas * alpha + self.init_v
         x = x_j
         x = x.unsqueeze(-1)
         x_perm = x.permute(2, 0, 1).unsqueeze(-1)
